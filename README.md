@@ -1,3 +1,7 @@
+Developed by : ADITHYA SIVAKUMAR
+
+Register Number : 212224040013
+
 # Fitting Poisson  distribution
 # Aim : 
 
